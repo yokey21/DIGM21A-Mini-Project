@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+/* Default Sizing */
+header {
+    font-family: 'Cabin', sans-serif;
+    background-color: red;
+}
+
+.div1 {
+    font-family: 'Cabin', sans-serif;
+    width: 20%;
+    background-color: orange;
+    float: left;
+}
+
+.div2 {
+    font-family: 'Cabin', sans-serif;
+    width: 40%;
+    background-color: greenyellow;
+}
+
+.div3 {
+    font-family: 'Cabin', sans-serif;
+    width: 20%;
+    background-color: blue;
+}
+
+.div4 {
+    font-family: 'Cabin', sans-serif;
+    width: 20%;
+    background-color: indigo;
+}
+
+footer {
+    font-family: 'Cabin', sans-serif;
+    background-color: violet;
+}
